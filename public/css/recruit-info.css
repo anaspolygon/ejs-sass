@@ -1,0 +1,83 @@
+.button {
+  background: linear-gradient(90deg, #0d277e 0%, #522b88 99.98%);
+  margin-top: 219.31px;
+  margin-left: 83.39px;
+  width: 284.39px;
+  height: 67.12px;
+}
+.button1 {
+  background: linear-gradient(90deg, #0d277e 0%, #522b88 99.98%);
+  margin-top: 120px;
+  margin-left: 83.39px;
+  width: 284.39px;
+  height: 67.12px;
+}
+.button2 {
+  width: 464.91px;
+  height: 86.27px;
+  margin-top: 30px;
+  margin-left: 320px;
+  background: linear-gradient(90deg, #00aeeb 0%, #0000ff 100%);
+  margin-bottom: 100px;
+}
+.btntxt {
+  color: #ffffff;
+  font-size: 35px;
+}
+.btntxt2 {
+  color: #ffffff;
+  font-size: 30px;
+  padding-top: 15px;
+}
+.textinfo {
+  padding-left: 200px;
+  padding-top: 76px;
+}
+.hr1 {
+  margin-left: 200px;
+}
+.hr2 {
+  margin-left: 200px;
+}
+.textinfo2 {
+  padding-left: 200px;
+  padding-top: 0px;
+}
+.righttxt {
+  padding-left: 0px;
+}
+.emailtxt {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.circle {
+  width: 111.26px;
+  height: 111.26px;
+  border-radius: 50%;
+  text-align: center;
+  border: 3px solid #acddf7;
+  margin-left: 34px;
+}
+.circle p {
+  margin-top: 25px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 8px;
+  color: #000000;
+}
+.circle .paragraph1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+}
+.allcircle {
+  margin-left: 150px;
+  margin-top: 81px;
+}
+.allcircle img {
+  margin-left: 120px;
+  margin-top: -80px;
+}

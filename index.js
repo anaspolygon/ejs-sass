@@ -12,6 +12,36 @@ app.get("/", (req, res) => {
   res.render("index", { languages: languages });
 });
 
+app.get("/company", (req, res) => {
+  res.render("company");
+});
+app.get("/member", (req, res) => {
+  res.render("member");
+});
+
+app.get("/career", (req, res) => {
+  res.render("career");
+});
+app.get("/recruit", (req, res) => {
+  res.render("recruit");
+});
+
+app.get("/recruit/info", (req, res) => {
+  res.render("recruit/info", { languages: languages });
+});
+
+
+
+app.get("/recruit/message", (req, res) => {
+  res.render("recruit/message");
+});
+app.get("/recruit/workstyle", (req, res) => {
+  res.render("recruit/workstyle");
+});
+app.get("/recruit/faq", (req, res) => {
+  res.render("recruit/faq");
+});
+
 app.post("/", (req, res) => {
   const lang = req.body.pLanguage;
   languages.push(lang);
