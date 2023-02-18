@@ -9,7 +9,7 @@ app.set("view engine", "ejs");
 let languages = [];
 
 app.get("/", (req, res) => {
-  res.render("index", { languages: languages });
+  res.render("company");
 });
 
 app.get("/company", (req, res) => {
