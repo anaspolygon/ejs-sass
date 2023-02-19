@@ -1,0 +1,67 @@
+.top-message-upper {
+  /* background-image: url("/images/top-message.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    height: 500px; */
+  position: relative;
+}
+
+.top-message-upper-text {
+  position: absolute;
+  top: 119px;
+  left: 245px;
+}
+
+.top-message-upper-text h1 {
+  font-size: 90px;
+}
+
+.company-strategy-next {
+  background-image: url("/images/company-strategy-next.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 500px;
+}
+
+.company-photo-next {
+  background-image: url("/images/company-photo-next.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 500px;
+}
+
+.company-info-next {
+  background-image: url("/images/company-info-next.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 500px;
+}
+
+/* badoler code */
+
+img {
+  max-width: 100%;
+}
+.gallery {
+  padding: 80px 0;
+  margin-left: 82.75px;
+}
+.gallery img {
+  background-color: white;
+  width: 384.6px;
+  height: 251.59px;
+}
+.companyinfo {
+  height: 298.83px;
+  width: 646.12px;
+}
+
+.company-info-hero {
+  background-image: url("/images/company-info-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}

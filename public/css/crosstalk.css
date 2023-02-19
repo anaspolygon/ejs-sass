@@ -1,0 +1,26 @@
+.crosstalk-peoples {
+  background: radial-gradient(
+    37.87% 98.66% at 50% 50%,
+    #ffffff 0%,
+    #d5d8fb 100%
+  );
+}
+
+.crosstalk-peoples img{
+    width: 88%;
+  }
+
+  .crosstalk-chat{
+    background: linear-gradient(90deg, #80EDB4 0%, #E8F985 100%);
+    
+  }
+
+  .crosstalk-chat img{
+    width: 34%;
+    
+  }
+
+  .crosstalk-msg{
+
+  }
+  
