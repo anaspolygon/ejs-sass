@@ -248,3 +248,13 @@
 .workstyle-content {
   padding-left: 112px;
 }
+
+
+/* accordian */
+
+.accordion-button:not(.collapsed) {
+  border-top:5px solid #EDEDED;
+  color: var(--bs-accordion-active-color);
+  background-color: #fff;;
+  box-shadow: none;
+}
