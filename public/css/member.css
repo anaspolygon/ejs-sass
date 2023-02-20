@@ -1,0 +1,79 @@
+.member-episode-one {
+  background: url(/images/episode-one.png);
+  height: 1000px;
+  background-size: cover;
+  background-position: center;
+}
+
+.member-episode-two {
+  background: url(/images/member-episode-two.png);
+  height: 900px;
+  background-size: cover;
+  background-position: center;
+  top: 150px;
+}
+
+.episode-three-upper {
+  background: url(/images/episode-three.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.member-human {
+  padding: 80px 0;
+}
+.member-one-hero {
+  background: url(/images/member-one-hero-bg.png);
+  background-size: cover;
+  background-position: center;
+  height: 930px;
+}
+.m-one-hero-title {
+  position: absolute;
+  top: 36%;
+  left: 12%;
+  font-size: 45px;
+}
+
+.member-one-hero-next {
+  background: linear-gradient(90deg, #e89abf -1.46%, #9c90c4 99.28%);
+  display: inline-block;
+  padding: 60px 130px;
+  position: absolute;
+  top: 57%;
+  z-index: 0;
+}
+
+.member-two-hero {
+  background: url(/images/member-two-hero-bg.png);
+  background-size: cover;
+  background-position: center;
+  height: 930px;
+}
+.member-two-episode-one {
+  background: url(/images/member-two-episode-one.png);
+  height: 1000px;
+  background-size: cover;
+  background-position: center;
+}
+.member-two-episode-two{
+  background: url(/images/member-two-episode-two.png);
+  height: 900px;
+  top: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.member-two-episode-three-upper {
+  background: url(/images/member-two-episode-three.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.member-three-hero {
+  background: url(/images/member-three-hero-bg.png);
+  background-size: cover;
+  background-position: center;
+  height: 930px;
+}

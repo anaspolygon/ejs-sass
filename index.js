@@ -33,6 +33,18 @@ app.get("/member", (req, res) => {
   res.render("member");
 });
 
+app.get("/member-one", (req, res) => {
+  res.render("member-one");
+});
+app.get("/member-two", (req, res) => {
+  res.render("member-two");
+});
+
+app.get("/member-three", (req, res) => {
+  res.render("member-three");
+});
+
+
 app.get("/career", (req, res) => {
   res.render("career");
 });
