@@ -71,6 +71,10 @@ app.get("/recruit/workstyle", (req, res) => {
 app.get("/recruit/faq", (req, res) => {
   res.render("recruit-faq");
 });
+
+app.get("/team", (req, res) => {
+  res.render("crosstalk");
+});
 app.get("/crosstalk/01", (req, res) => {
   res.render("crosstalk-one");
 });
