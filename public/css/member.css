@@ -77,3 +77,24 @@
   background-position: center;
   height: 930px;
 }
+
+.member-three-episode-one{
+  background: url(/images/member-three-episode-one.png);
+  height: 1000px;
+  background-size: cover;
+  background-position: center;
+}
+
+.member-three-episode-three-upper{
+  background: url(/images/member-three-episode-three.png);
+  background-size: cover;
+  background-position: center;
+}
+.member-three-episode-two{
+  background: url(/images/member-three-episode-two.png);
+  height: 900px;
+  background-size: cover;
+  background-position: center;
+  top: 150px;
+}
+

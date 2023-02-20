@@ -33,14 +33,14 @@ app.get("/member", (req, res) => {
   res.render("member");
 });
 
-app.get("/member-one", (req, res) => {
+app.get("/member/01", (req, res) => {
   res.render("member-one");
 });
-app.get("/member-two", (req, res) => {
+app.get("/member/02", (req, res) => {
   res.render("member-two");
 });
 
-app.get("/member-three", (req, res) => {
+app.get("/member/03", (req, res) => {
   res.render("member-three");
 });
 
