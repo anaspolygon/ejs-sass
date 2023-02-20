@@ -4,9 +4,46 @@
     background-position: center;
     height: 930px;
   }
+  .career-two-hero {
+    background: url(/images/career-two-hero.png);
+    background-size: cover;
+    background-position: center;
+    height: 930px;
+  }
+
 
   .career-one-episode-one{
     background: url(/images/career-one-episode-one.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .career-one-episode-two{
+    background: url(/images/career-one-episode-two.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .career-one-episode-three{
+    background: url(/images/career-one-episode-three.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .career-two-episode-one{
+    background: url(/images/career-two-episode-one.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .career-two-episode-two{
+    background: url(/images/career-two-episode-two.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .career-two-episode-three{
+    background: url(/images/career-two-episode-three.png);
     background-size: cover;
     background-position: center;
   }

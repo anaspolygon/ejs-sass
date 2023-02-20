@@ -51,6 +51,9 @@ app.get("/career", (req, res) => {
 app.get("/career/01", (req, res) => {
   res.render("career-one");
 });
+app.get("/career/02", (req, res) => {
+  res.render("career-two");
+});
 app.get("/recruit", (req, res) => {
   res.render("recruit");
 });
