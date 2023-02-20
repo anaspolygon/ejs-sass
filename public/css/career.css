@@ -1,0 +1,12 @@
+.career-one-hero {
+    background: url(/images/career-one-hero.png);
+    background-size: cover;
+    background-position: center;
+    height: 930px;
+  }
+
+  .career-one-episode-one{
+    background: url(/images/career-one-episode-one.png);
+    background-size: cover;
+    background-position: center;
+  }

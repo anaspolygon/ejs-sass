@@ -48,6 +48,9 @@ app.get("/member/03", (req, res) => {
 app.get("/career", (req, res) => {
   res.render("career");
 });
+app.get("/career/01", (req, res) => {
+  res.render("career-one");
+});
 app.get("/recruit", (req, res) => {
   res.render("recruit");
 });
@@ -65,9 +68,17 @@ app.get("/recruit/workstyle", (req, res) => {
 app.get("/recruit/faq", (req, res) => {
   res.render("recruit-faq");
 });
-app.get("/crosstalk", (req, res) => {
-  res.render("crosstalk");
+app.get("/crosstalk/01", (req, res) => {
+  res.render("crosstalk-one");
 });
+app.get("/crosstalk/02", (req, res) => {
+  res.render("crosstalk-two");
+});
+app.get("/crosstalk/03", (req, res) => {
+  res.render("crosstalk-three");
+});
+
+
 
 
 app.post("/", (req, res) => {

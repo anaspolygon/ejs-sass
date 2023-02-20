@@ -42,9 +42,6 @@
 
 /* badoler code */
 
-img {
-  max-width: 100%;
-}
 .gallery {
   padding: 80px 0;
   margin-left: 82.75px;
@@ -65,3 +62,15 @@ img {
   background-size: cover;
   height: 900px;
 }
+
+/* .company-info-one {
+  background-image: url("/images/company-info-one.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.company-info-one-right {
+  background-image: url("/images/company-info-one.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+} */

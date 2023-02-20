@@ -6,21 +6,108 @@
   );
 }
 
-.crosstalk-peoples img{
-    width: 88%;
-  }
+.crosstalk-peoples img {
+  width: 88%;
+}
 
-  .crosstalk-chat{
-    background: linear-gradient(90deg, #80EDB4 0%, #E8F985 100%);
-    
-  }
+.crosstalk-chat {
+  background: linear-gradient(90deg, #80edb4 0%, #e8f985 100%);
+}
 
-  .crosstalk-chat img{
-    width: 34%;
-    
-  }
+.crosstalk-chat img {
+  width: 34%;
+}
 
-  .crosstalk-msg{
+.crosstalk-msg {
+  background: #fff;
 
-  }
-  
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.crosstalk-men-one {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-men-one.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.crosstalk-two-men-one {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-two-men-one.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crosstalk-two-men-two {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-two-men-two.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crosstalk-two-men-three {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-two-men-three.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.crosstalk-three-men-one {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-three-men-one.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crosstalk-three-men-two {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-three-men-two.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.crosstalk-men-two {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-men-two.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.crosstalk-men-three {
+  height: 500px;
+  width: 100%;
+  background: url("/images/crosstalk-men-three.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.team-content {
+  padding-left: 18%;
+}
+
+.crosstalk-one-hero {
+  background: url("/images/crosstalk-one-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crosstalk-two-hero{
+  background: url("/images/crosstalk-two-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crosstalk-three-hero{
+  background: url("/images/crosstalk-three-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crosstalk-plan {
+  padding: 10px 80px;
+  border: 3px solid;
+  border-image: linear-gradient(45deg, #00aeeb, #0000ff) 1;
+}
