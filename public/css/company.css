@@ -63,14 +63,12 @@
   height: 900px;
 }
 
-/* .company-info-one {
-  background-image: url("/images/company-info-one.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+.company-info-one,.company-info-two {
+  background-color: #EEEEEE;
+} 
 
-.company-info-one-right {
+/* .company-info-one-right {
   background-image: url("/images/company-info-one.png");
   background-repeat: no-repeat;
   background-size: cover;
-} */
+}  */
