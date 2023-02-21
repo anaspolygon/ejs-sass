@@ -62,6 +62,13 @@
   background-size: cover;
   height: 900px;
 }
+.company-photo-hero {
+  background-image: url("/images/company-photo-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+
 
 .company-info-one,.company-info-two {
   background-color: #EEEEEE;
