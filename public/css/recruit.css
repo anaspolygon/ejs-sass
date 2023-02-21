@@ -190,6 +190,12 @@
   line-height: 19px;
   color: #000000;
 }
+.recruit-info-hero {
+  background-image: url("/images/recruit-info-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
 
 .recruit-message-hero {
   background-image: url("/images/recruit-message-hero.jpg");
@@ -197,6 +203,20 @@
   background-size: cover;
   height: 900px;
 }
+.recruit-workstyle-hero {
+  background-image: url("/images/recruit-workstyle-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+
+.recruit-faq-hero {
+  background-image: url("/images/recruit-faq-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+
 
 .recruit-message {
   background-color: #efefef;
@@ -207,7 +227,7 @@
   padding: 40px 60px;
 }
 .recruit-info-next {
-  background-image: url("/images/company-photo-next.jpg");
+  background-image: url("/images/recruit-info-next.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -215,15 +235,15 @@
 }
 
 .recruit-message-next {
-  background-image: url("/images/company-photo-next.jpg");
+  background-image: url("/images/recruit-message-next.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+ 
   height: 500px;
 }
 
 .recruit-faq-next {
-  background-image: url("/images/company-photo-next.jpg");
+  background-image: url("/images/recruit-faq-next.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
